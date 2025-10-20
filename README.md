@@ -357,10 +357,10 @@ npm run dev
 <a name="author"></a>
 ## 👨‍💻 Author
 
-**Mahmud Alam**
+**Satishkumar Oleti**
 
 - 🌐 [Portfolio Website](https://satish.com)
-- 📧 Email: [mahmudalam.official@gmail.com](mailto:satisholeti1303@gmail.com)
+- 📧 Email: [satisholeti1303@gmail.com](mailto:satisholeti1303@gmail.com)
 - 💻 [GitHub](https://github.com/OletiSatishKumar)
 - 💼 [LinkedIn](https://linkedin.com/in/satishkumaroleti/)
 
