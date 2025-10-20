@@ -359,10 +359,10 @@ npm run dev
 
 **Mahmud Alam**
 
-- 🌐 [Portfolio Website](https://mahmudalam.com)
-- 📧 Email: [mahmudalam.official@gmail.com](mailto:mahmudalam.official@gmail.com)
-- 💻 [GitHub](https://github.com/Mahmud-Alam)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)
+- 🌐 [Portfolio Website](https://satish.com)
+- 📧 Email: [mahmudalam.official@gmail.com](mailto:satisholeti1303@gmail.com)
+- 💻 [GitHub](https://github.com/OletiSatishKumar)
+- 💼 [LinkedIn](https://linkedin.com/in/satishkumaroleti/)
 
 ---
 
